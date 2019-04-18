@@ -91,7 +91,7 @@ gems:
 favicon: /assets/images/favicon.jpg
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll,java,blog,ice-winters"
+keywords: "java,blog,gert"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -226,7 +226,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/Ice-winters
+  GitHub: https://github.com/ger4551
   # 知乎: http://www.zhihu.com/people/zhou-you-95-41
   # V2EX: https://www.v2ex.com/member/zhouyou457
 
