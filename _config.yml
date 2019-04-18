@@ -8,13 +8,13 @@
 repository: Ice-winters/Ice-wintesr.github.io
 
 # Site
-title: Ice-winters Blog
+title: gert
 subtitle:
 # description: 再好的框架也无法概括人生
 description: 很多我们以为一辈子都不会忘掉的事情，就在我们念念不忘的日子里．被我们遗忘了．
 
 # author: Maxith Zhou
-author: ice-winters
+author: gert
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
